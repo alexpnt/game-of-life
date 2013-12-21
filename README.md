@@ -12,7 +12,7 @@ Building
 
 Basic Usage
 ------------
-<p>life <i>number_of_generations</i> &lt; <i>seed_file</i>
+<p>life <i>number_of_generations</i> &lt; <i>seed_file</i></p>
 
 Screenshots
 ------------
