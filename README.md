@@ -16,12 +16,12 @@ Basic Usage
 
 Screenshots
 ------------
-<p><center><b>Fig. 1</b> Gospers glider gun</center></p>
+<p style="text-align:center"><b>Fig. 1</b> Gospers glider gun</p>
 <p align="center">
   <img src="https://github.com/AlexPnt/Game-of-Life/raw/master/screens/screen.png"/>
 </p>
 
-<p><center><b>Fig. 2</b> Pulsars</center></p>
+<p style="text-align:center"><b>Fig. 2</b> Pulsars</p>
 <p align="center">
   <img src="https://github.com/AlexPnt/Game-of-Life/raw/master/screens/screen2.png"/>
 </p>
