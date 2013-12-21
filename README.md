@@ -16,7 +16,7 @@ Basic Usage
 
 Screenshots
 ------------
-<p style="text-align:center"><b>Fig. 1:</b> Gospers glider gun</p>
+<p style="text-align:center"><b>Fig. 1:</b> Gosper's glider gun</p>
 <p align="center">
   <img src="https://github.com/AlexPnt/Game-of-Life/raw/master/screens/screen.png"/>
 </p>
